@@ -1,4 +1,4 @@
-# Team Name: [Enter your team name here]
+# Team Name: [cps-26-h-LOL]
 
 
 ## Collaborators
